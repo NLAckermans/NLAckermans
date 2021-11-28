@@ -2,7 +2,7 @@
 - 👀 I’m interested in anatomy and neuroscience
 - 🌱 I’m currently learning all things github
 - 💞️ I’m looking to collaborate on interdisciplinary projects involving neurodegeneration
-- 📜 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=5jqXffAAAAAJ&hl=en) or [Researchgate](https://www.researchgate.net/profile/Nicole-Ackermans)
+- 📜 You can find my work on [Google Scholar](https://scholar.google.com/citations?user=5jqXffAAAAAJ&hl=en) or [ResearchGate](https://www.researchgate.net/profile/Nicole-Ackermans)
 - 👩‍🔬 Find out more on [my website](https://www.nicoleackermans.com/)
 
 <!---
